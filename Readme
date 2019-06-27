@@ -1,0 +1,9 @@
+Mini_rpg with CSFML lib
+
+Use makefile to compile.
+
+Command :
+    Hit : A
+    run : Toggle (Space)
+    Deplacement : Arrow keys
+    View curent quest : Q
